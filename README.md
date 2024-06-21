@@ -30,9 +30,7 @@ This project aims to automate the classification of research papers into predefi
 - `README.md`
   - Provides an overview of the project, including detailed descriptions of all included files and instructions for their use.
 
-## Installation
 
-Before running the notebooks, ensure you have Python 3.8+ installed. Then, install the required libraries:
 
 ```bash
 pip install -r requirements.txt
